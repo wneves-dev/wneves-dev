@@ -194,7 +194,6 @@ Acredito que a programação é uma ferramenta poderosa para criar soluções cr
 
 ---
 
-
 <div align="center">
 <br><p align="center"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wneves-dev}/count.svg" /></p> 

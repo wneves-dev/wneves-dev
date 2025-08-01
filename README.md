@@ -12,14 +12,14 @@
 </p>
 
 <p align="left">
-    <a href="https://www.youtube.com/@washingtonneves5976?sub_confirmation=1">
+    <a href="https://www.youtube.com/@washingtonneves5976?sub_confirmation=1" target="_blank">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@washingtonneves5976">
+    <a href="https://www.youtube.com/@washingtonneves5976" target="_blank">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -42,7 +42,7 @@
     </a>
 
 <a>  
-<img 
+<img disabled
     alt="Visitantes"
     title="Contagem de visitantes"
     src="https://komarev.com/ghpvc/?username=wneves-dev&style=for-the-badge"
